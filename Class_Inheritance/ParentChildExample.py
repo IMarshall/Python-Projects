@@ -1,7 +1,9 @@
+##PARENT CLASS
 class Instrument:
     name = ''
     pitch_range = ''
 
+##CHILD CLASSES
 class Woodwind(Instrument):
     voice = 'soprano'
     reed_size = '3'
