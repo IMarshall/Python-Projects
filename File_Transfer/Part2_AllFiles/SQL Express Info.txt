@@ -1,0 +1,6 @@
+SQL Express
+Instance Name: SQLEXPRESS
+
+Connection String:
+Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;
+
